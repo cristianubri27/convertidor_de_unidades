@@ -1,0 +1,17 @@
+c:\users\home\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+c:\users\home\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+c:\users\home\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+c:\users\home\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
+c:\users\home\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe
+c:\users\home\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.pdb
+c:\users\home\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.xml
+c:\users\home\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+c:\users\home\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+c:\users\home\documents\visual studio 2013\Projects\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Users\Home\Desktop\WindowsApplication4\WindowsApplication4\bin\Debug\WindowsApplication4.exe.config
+C:\Users\Home\Desktop\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.exe
+C:\Users\Home\Desktop\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.xml
+C:\Users\Home\Desktop\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.pdb
+C:\Users\Home\Desktop\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Form1.resources
+C:\Users\Home\Desktop\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.Resources.resources
+C:\Users\Home\Desktop\WindowsApplication4\WindowsApplication4\obj\Debug\WindowsApplication4.vbproj.GenerateResource.Cache
